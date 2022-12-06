@@ -1,0 +1,379 @@
+@media (max-width: 1199px){
+    .container {
+        width: 100%;
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 100%;
+    }
+   .header-bottom .menu-wrapper ul li.headcon {width: 251px;}
+    .cv-feature-img{
+        width: 100px;
+        margin-left: 9px;
+        height: 100px;
+    }
+    .cv-feature-text h3{
+        font-size: 12px;
+    }
+    .cv-feature-text {
+    width: calc(100% - 112px);
+}
+    section.rightthree .tiltrong {
+ font-size: 22px;
+}
+    section.serviceoff h3.tiltrong, .bacff h6 {font-size: 23px;padding-bottom: 0;}
+    section.appstore h3.titleimg {
+    font-size: 26px;
+    }
+    section.appstore p {
+    font-size: 23px;
+}
+    section.appstore .imgfooter a {
+    width: 48%;
+height: 100%;}
+     section.appstore .slie-325 {width: 100%;}
+    section.appstore .slie-325 img {width: 100%;}
+    .col-md-12.col-sm-3.col-lg-3 {padding-left: 0 !important;}
+    .onesect .slitype-325 img{
+        
+    height: 100%;width: 100%;position: relative;}
+
+   
+ 
+}
+@media (max-width: 992px){
+    .container {
+        width: 100%;
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 100%;
+    }
+    .headcon{
+        width: 100%;
+    }
+    .side-menu ul.ui-categori li a {
+   font-size: 12px;
+}
+    header .search-container{
+        display:none;
+    }
+    .icon-usertwo{
+          display:none;
+    }
+      .hamburger.OpenMenu {
+        display: block;
+        z-index: 9999999;
+        position: absolute;
+        left: 22px;
+        top: 57px;
+    }
+    .header-bottom .menu-wrapper{
+        display: none;
+    }
+    .main-slide div#sync1 .item{
+        height: 477px;
+    }
+     .main-slide div#sync1 .item a{
+        height: 100%;
+        display: block;
+        overflow: hidden;
+        width: 100%;
+    }
+      .main-slide div#sync1 .item a img{
+        height: 100%;
+        display: block;
+        overflow: hidden;
+        width: 100%;
+    }
+
+
+    .BadMenu .contact-top-info {
+        width: 100%;
+        text-align: center;
+        font-size: 22px;
+        color: #fff;
+    }
+
+    .BadMenu .contact-social-media {
+        font-size: 15px;
+        display: inline-block;
+        width: 100%;
+    }
+
+    .BadMenu .contact-social-media ul.social li {
+        display: inline-block;
+        padding: 0 0;
+        position: relative;
+    }
+
+    .BadMenu .contact-social-media ul.social li a {
+        display: block;
+        width: 100%;
+        padding: 5px 15px;
+        color: #ffffff;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+    }
+
+    .BadMenu .contact-top-info p {
+        color: #ffff;
+    }
+
+    .BadMenu .contact-top-info .contact-number {
+        margin-bottom: 13px;
+    }
+    .MooobMenu ul {
+        display: block;
+        width: 100%;
+        text-align: left;
+    }
+    .MooobMenu ul>li {
+        display: block;
+        width: 100%;
+        padding: 0 0;
+        border-bottom: 1px solid #0000001f;
+        position: relative;
+    }
+    .MooobMenu ul>li>ul.sm-nowrap.active {
+        display: block;
+    }
+    section.appstore .slie-325 {width: 100%;}
+    section.appstore .slie-325 img {width: 100%;}
+    .col-md-12.col-sm-3.col-lg-3 {padding-right: 0 !important;padding-left: 0 !important;}
+    .col-md-12.col-sm-6.col-lg-6.mb-25 {padding-right: 0!important;padding-left: 0!important;}
+    .onesect .slitype-325 img{
+        
+    height: 100%;width: 100%;position: relative;}
+    .side-menu ul.ui-categori li a .pro-img {
+        
+    width: 66px;}
+    .side-menu ul.ui-categori li a .pro-content {width: calc(100% - 73px);}
+    .side-menu ul.ui-categori li a .pro-content h4 {font-size: 11px;line-height: 22px;padding-top: 1px;}
+    .catserviers a .title-holder h5.title {font-size: 16px;}
+    .mb-3.col-md-12.col-sm-6.col-lg-6 {padding-right: 0 !important;padding-left: 0 !important;}
+    .imagelogo span.spanlogo{top: 0;}
+    img.openimh {width: 100%;}
+    .headerprofile .icon-usertwo{
+        
+    display: block;}
+.forum-questions .dash-widget {margin-bottom: 19px;}
+    .forum-questions {margin-top: 24px;}
+
+    
+    
+   
+}
+@media screen and (max-width: 760px) {
+    .container {
+        width: 100%;
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 100%;
+    }
+      .hamburger.OpenMenu {
+        display: inline-block;
+        z-index: 9999999;
+        position: absolute;
+        left: 22px;
+    }
+
+    .BadMenu .contact-top-info {
+        width: 100%;
+        text-align: center;
+        font-size: 22px;
+        color: #fff;
+    }
+
+    .BadMenu .contact-social-media {
+        font-size: 15px;
+        display: inline-block;
+        width: 100%;
+    }
+
+    .BadMenu .contact-social-media ul.social li {
+        display: inline-block;
+        padding: 0 0;
+        position: relative;
+    }
+
+    .BadMenu .contact-social-media ul.social li a {
+        display: block;
+        width: 100%;
+        padding: 5px 15px;
+        color: #ffffff;
+        font-weight: 700;
+        font-family: 'Almarai', sans-serif;
+    }
+
+    .BadMenu .contact-top-info p {
+        color: #ffff;
+    }
+
+    .BadMenu .contact-top-info .contact-number {
+        margin-bottom: 13px;
+    }
+    .MooobMenu ul {
+        display: block;
+        width: 100%;
+        text-align: left;
+    }
+    .MooobMenu ul>li {
+        display: block;
+        width: 100%;
+        padding: 0 0;
+        border-bottom: 1px solid #0000001f;
+        position: relative;
+    }
+    .MooobMenu ul>li>ul.sm-nowrap.active {
+        display: block;
+    }
+    .headcon{
+        width: 100%;
+    }
+      
+    .side-menu ul.ui-categori li a {
+   font-size: 12px;
+}
+    header .search-container{
+        display:none;
+    }
+    .icon-usertwo{
+          display:none;
+    }
+      .hamburger.OpenMenu {
+        display: block;
+        z-index: 9999999;
+        position: absolute;
+        left: 22px !important;
+        top: 4px;
+    }
+    .header-bottom .menu-wrapper{
+        display: none;
+    }
+    .header-top{
+        display: none;
+    }
+    .imagelogo img{
+        width: 47px;
+    }
+    .imagelogo span.spanlogo li{
+        font-size: 18px;
+    }
+    .imagelogo span.spanlogo span{
+        font-size: 13px;
+    }
+     .main-slide div#sync1 .item{
+    height: 306px;
+    }
+    .ccaption h4 {
+    font-size: 15px;
+    line-height: 28px;
+    font-family: 'Almarai';
+    font-weight: 600;
+}
+    .col-xs-12.col-sm-12.col-md-9.homebanner-holder.pl-0 {
+    padding-right: 0;
+}
+
+     .cv-feature-img{
+        width: 95px;
+        margin-left: 5px;
+        height: 96px;
+        position: absolute;
+        right: 0;
+    }
+    .cv-feature-text h3{
+        font-size: 12px;
+    }
+    .cv-feature-text {
+    padding-right: 105px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    width: 100%;
+}
+    .cv-feature-text p {
+    font-size: 16px;
+}
+    .headerprofile .icon-usertwo {
+    display: block;
+    text-align: center;
+}
+    .forquestions {
+
+    width: 100%;
+    overflow: auto;
+}
+    .popppp {
+    margin-bottom: 17px;
+}
+    section.appstore .slie-325 {width: 100%;}
+    section.appstore .slie-325 img {width: 100%;}
+    .col-md-12.col-sm-3.col-lg-3 {padding-right: 0 !important;padding-left: 0 !important;}
+    .col-md-12.col-sm-6.col-lg-6.mb-25 {padding-right: 0!important;padding-left: 0!important;}
+    .sliderleft, .sliderright {position: relative;left: -5px;right: auto;top: -20px;}
+    .onesect .slitype-325 img{
+        
+    height: 100%;width: 100%;position: relative;}
+    .col-md-12.col-sm-4.col-lg-4.pl-0 {padding-right: 0;}
+    .section-content h2.title {font-size: 24px;line-height: 28px;}
+    .col-xs-12.col-sm-3.col-md-3.sidebar.pr-0 {padding-left: 0;}
+    .priceone {text-align: right;}
+    .mb-3.col-md-12.col-sm-6.col-lg-6 {padding-right: 0 !important;padding-left: 0 !important;}
+    table#ctl00_ContentPlaceHolder1_items_GridView {overflow: auto;}
+
+table#ctl00_ContentPlaceHolder1_items_GridView thead {display: inline-block;overflow: auto;}
+
+td.uct-remove {display: inline-block;}
+    .breadcrumb-content h2 {font-size: 13px;line-height: 26px;}
+    .heading-line-bottom h4 {font-size: 19px;}
+    .contentaccto .conteninformation ul li strong {width: 51%;font-size: 15px;}
+    .contentaccto .conteninformation ul li span {font-size: 14px;}
+    .contentaccto .conteninformation .summaw .lrightsummm label { display: flow-root;}
+    a.btn.opccttyyy {width: 1000%;}
+    
+ .sectionfaq .accordion-item h2 button {font-size: 16px;} 
+    .sectionfaq .accordion-item .accordion-body {font-size: 12px;}
+    section.ody-content-xs .contact-now {padding: 5px;padding-top: 40px;padding-bottom: 40px;}
+section.ody-content-xs .contact-now p {
+    
+font-size: 14px;}
+    section.ody-content-xs .fromservice {padding: 0px;padding-top: 20px;padding-bottom: 20px;height: auto;}
+    .col-md-12.col-sm-8.col-lg-8 {padding-right: 0;}
+    .table-responsive.project.fontss tr td.uct-thumbnail span {padding-right: 9px;font-size: 13px;}
+    .lonnn button.btn.submit-login {margin-top: 25px;}
+    .boxsho {padding-top: 25px;padding-bottom: 25px;padding-right: 0;padding-left: 0;}
+    img.openimh {width: 100%;}
+    .polinhhh a {font-size: 13px;}
+    .product-review li h6.loltit strong {font-size: 15px;}
+    .section-title h3 {font-size: 21px;}
+    li.projectpro {padding-right: 8px;}
+    li.projectpro h3 {font-size: 14px;} 
+    li.projectpro h3 a {font-size: 16px;}
+.usr-msg-details .usr-mg-info h3 {font-size: 15px;}
+.widget.widget-user h6 span {
+    padding-right: 6px;
+}
+.widget.widget-user h6 span.leftloo {padding-right: 16px;}
+
+
+.fromservice.pyment form {
+    padding: 10px;
+}
+
+.daswidge {padding-top: 21px;}
+.mb-3.col-md-12.col-sm-12.col-lg-12 {padding-left: 0;}
+    .col-md-6.col-sm-6.col-lg-3 {padding-left: 0;padding-right: 0;}
+
+section.forum-page .col-lg-9 {padding-right: 0;padding-left: 0;}
+    .forum-questions .dash-widget {margin-bottom: 19px;}
+    .forum-questions {margin-top: 24px;}
+    .contentonrrr ul li a {position: relative;margin-top: 17px;}
+    .contentonrrr ul li {width: 100%;display: block;overflow: hidden;}
+
+    .contentonrrr ul li span.boccover {position: relative;display: block;width: 100%;}
+}

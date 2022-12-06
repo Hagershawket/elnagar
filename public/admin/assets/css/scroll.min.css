@@ -1,0 +1,26 @@
+html {
+    overflow-x: hidden
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    border-radius: 1px;
+    background-color: #f5f5f5
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    background-color: #f5f5f5
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    background-color: #b5002394;
+    /* background-color: #c9002757; */
+    /* background-color: #fbe635 */
+}
+
+#review .circle-gallery {
+    width: 4%
+}
